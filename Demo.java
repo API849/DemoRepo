@@ -7,6 +7,7 @@ public class Demo {
 		System.out.println("I am first commit");
 		System.out.println("I am fourth commit");
 		System.out.println("I am fifth commit");
+		System.out.println("I am sixth commit");
 		
 
 	}
