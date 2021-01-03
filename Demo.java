@@ -9,6 +9,8 @@ public class Demo {
 		System.out.println("I am fifth commit");
 		System.out.println("I am sixth commit");
 		System.out.println("I am Seventh commit");
+		System.out.println("I am Eight commit");
+		System.out.println("I am Ninght commit");
 		
 		}
 	}
